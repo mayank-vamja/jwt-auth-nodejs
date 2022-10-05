@@ -1,0 +1,4 @@
+﻿{
+    "connectionString": "MONGO_DB_CONNECTION_URI",
+    "secret": "JWT_GENERATOR_SECRET_KEY"
+}
